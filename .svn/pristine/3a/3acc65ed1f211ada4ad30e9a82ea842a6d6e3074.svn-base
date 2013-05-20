@@ -1,4 +1,0 @@
-﻿  RegisterUnit.cpp
-c:\users\jconnor\documents\visual studio 2010\projects\repl\repl\registerunit.cpp(69): warning C4018: '<' : signed/unsigned mismatch
-c:\users\jconnor\documents\visual studio 2010\projects\repl\repl\registerunit.cpp(121): warning C4018: '<' : signed/unsigned mismatch
-  REPL.vcxproj -> C:\Users\JConnor\Documents\Visual Studio 2010\Projects\REPL\Debug\REPL.exe
